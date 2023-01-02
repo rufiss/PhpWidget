@@ -1,0 +1,14 @@
+{
+    "name": "lacuna/widgetsample",
+    "description": "",
+    "scripts": {
+        "start": "php -S localhost:5000 "
+    },
+    "require": {
+        "tecnickcom/tcpdf": "6.3.5",
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle": "^6.0",
+        "lacuna/signer-client": "1.4.4",
+        "ext-json": "*"
+    }
+}
